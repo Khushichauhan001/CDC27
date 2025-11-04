@@ -1,4 +1,4 @@
-package Trees;
+
 import java.util.*;
 class TreeNode{
     TreeNode node ;

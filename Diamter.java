@@ -1,4 +1,4 @@
-package Trees;
+
 
 class Diameter {
     public static class TreeNode {

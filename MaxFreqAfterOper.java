@@ -1,4 +1,4 @@
-package String;
+
 
 public class MaxFreqAfterOper {
      public int maxFrequency(int[] nums, int k, int numOperations) {
