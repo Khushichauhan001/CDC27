@@ -40,7 +40,7 @@ public class Dijisktra {
                 }
 
             }
-        }h
+        }
 
         return dist;
     }
