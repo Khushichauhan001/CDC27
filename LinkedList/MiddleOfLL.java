@@ -1,6 +1,6 @@
-import ListNode;
-
 package LinkedList;
+// import ListNode;
+
 class ListNode {
      int val;
      ListNode next;
