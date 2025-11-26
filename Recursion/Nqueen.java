@@ -1,3 +1,4 @@
+package Recursion;
 import java.util.*;
 class Nqueen {
     public List<List<String>> solveNQueens(int n) {
