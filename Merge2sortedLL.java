@@ -1,4 +1,6 @@
- class ListNode {
+import LinkedList.ListNode;
+
+class ListNode {
      int val;
      ListNode next;
      ListNode() {}

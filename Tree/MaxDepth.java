@@ -1,4 +1,5 @@
- class TreeNode {
+package Tree;
+class TreeNode {
      int val;
      TreeNode left;
      TreeNode right;

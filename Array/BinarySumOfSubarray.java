@@ -1,3 +1,4 @@
+package Array;
 public class BinarySumOfSubarray {
      public int numSubarraysWithSum(int[] nums, int goal) {
         int a = helper(nums, goal);

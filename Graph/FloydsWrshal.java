@@ -1,3 +1,4 @@
+package Graph;
 public class FloydsWrshal {
     public void floydWarshall(int[][] dist) {
         int n = dist.length;
