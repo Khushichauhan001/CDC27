@@ -1,3 +1,4 @@
+package DP ;
 public class PathWithMaxGold {
          int maxGold = 0 ;
     public int getMaximumGold(int[][] grid) {
