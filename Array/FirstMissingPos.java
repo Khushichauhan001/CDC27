@@ -1,3 +1,4 @@
+package Array;
 public class FirstMissingPos {
     public static int firstMissingPositive(int[] nums) {
         int n = nums.length ;
