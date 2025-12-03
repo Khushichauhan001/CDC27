@@ -1,4 +1,4 @@
-package Greedy;
+// package Greedy;
 
 public class MaxChunks {
     public int maxChunksToSorted(int[] arr) {

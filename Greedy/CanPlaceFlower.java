@@ -1,4 +1,4 @@
-package Greedy;
+// package Greedy;
 
 public class CanPlaceFlower {
     public static boolean canPlaceFlowers(int[] flowerbed, int n) {

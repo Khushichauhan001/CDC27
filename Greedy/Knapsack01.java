@@ -1,4 +1,4 @@
-package Greedy;
+// package Greedy;
 
 public class Knapsack01 {
     static int knapsack(int W, int[] val, int[] wt) {
